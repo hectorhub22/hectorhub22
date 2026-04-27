@@ -33,30 +33,6 @@ Me apasiona optimizar procesos, analizar información y construir soluciones con
 ## 🧠 Machine Learning & Data Science
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-</p>
-
-- **Aprendizaje supervisado**: regresión, clasificación, modelos predictivos con Scikit-Learn y TensorFlow.  
-- **Aprendizaje no supervisado**: clustering (K-Means, DBSCAN), reducción de dimensionalidad (PCA).  
-- **Procesamiento de datos**: Pandas, NumPy, limpieza y transformación de datasets.  
-
----
-
-## 📊 Visualización, BI & Automatización
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white" />
-</p>
-
-- **Power BI**: dashboards interactivos, modelado de datos y DAX.  
-- **Looker Studio**: visualización de métricas en tiempo real con fuentes externas.  
-- **Microsoft Fabric**: integración de datos, análisis avanzado y colaboración empresarial.  
-- **Power Automate**: automatización de flujos de trabajo, integración con aplicaciones y reducción de tareas manuales.    
-
 ---
 
 ## 📈 Áreas de interés
