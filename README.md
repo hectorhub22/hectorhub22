@@ -43,5 +43,8 @@ Me apasiona optimizar procesos, analizar información y construir soluciones con
 ## 🌐 Conéctate conmigo
 <p align="center">
   <a href="https://github.com/hectorhub22"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/héctorcea"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hectorcea">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
